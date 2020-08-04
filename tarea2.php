@@ -38,7 +38,7 @@
   <!-- navbar -->
   <div class="navbar-navbar-expand-lg navbar-light bg-light shadow mb-4">
     <div class="container-fluid-nav text-center">
-      <a href="index.html"><img src="img/logo-unir.png" class="logo"></a>
+      <a href="index.php"><img src="img/logo-unir.png" class="logo"></a>
     </div>
   </div>
   <!-- /navbar -->

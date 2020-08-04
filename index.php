@@ -47,7 +47,7 @@
             <div class="media mb-4">
               <img src="img/Tarea1.png" class="captura rounded mr-3">
               <div class="media-body">
-                <a href="tarea1.html">
+                <a href="tarea1.php">
                   <h5 class="mt-0">Tarea Uno</h5>
                 </a>
                 Gráfica de barras horizontal básica usando D3
@@ -59,7 +59,7 @@
             <div class="media mb-4">
               <img src="img/Tarea2.png" class="captura rounded mr-3">
               <div class="media-body">
-                <a href="tarea2.html">
+                <a href="tarea2.php">
                   <h5 class="mt-0">Tarea dos</h5>
                 </a>
                 Gráfica de Pastel utilizando SVG,con relleno interactivo al pasar sobre los sectores con el mouse
